@@ -1,3 +1,19 @@
+<img width="882" height="562" alt="Image" src="https://github.com/user-attachments/assets/f98302b6-13f5-4bfc-b70c-32d03e6017fe" />
+
+<img width="887" height="559" alt="Image" src="https://github.com/user-attachments/assets/86b20d46-9da7-4347-9ff0-3f6d120fa306" />
+
+<img width="881" height="274" alt="Image" src="https://github.com/user-attachments/assets/2b46ef8a-0cfa-45a9-80b3-7dea72a5f8ab" />
+
+<img width="887" height="863" alt="Image" src="https://github.com/user-attachments/assets/97d17f4a-08cd-4a88-9a4f-4c992760cf30" />
+
+<img width="884" height="569" alt="Image" src="https://github.com/user-attachments/assets/f9043f3b-09c5-4014-bba7-e1043440237d" />
+
+<img width="892" height="544" alt="Image" src="https://github.com/user-attachments/assets/4519a803-7f15-4e46-a5f9-3dcd1d30b8d7" />
+
+<img width="898" height="711" alt="Image" src="https://github.com/user-attachments/assets/0693e909-3cfa-4e6e-a33d-a9b2f890f27e" />
+
+[Куросовэйшннннн2Курс.docx](https://github.com/user-attachments/files/21497824/2.docx)
+
 eSportsTournament — это программное приложение, предназначенное для автоматизации процесса организации и управления киберспортивными турнирами, в частности по дисциплинам, подобным FIFA. В условиях стремительного роста популярности киберспорта, появляется всё большая потребность в инструментах, упрощающих работу организаторов и обеспечивающих удобство для игроков и команд.
 
 Система позволяет:
